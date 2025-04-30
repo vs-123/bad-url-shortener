@@ -1,0 +1,10 @@
+google https://google.com
+dis https://discord.com
+insta https://instagram.com
+yt https://youtube.com
+rblx https://roblox.com
+spot https://spotify.com
+x https://x.com
+fb https://facebook.com
+
+example https://example.com
